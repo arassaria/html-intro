@@ -17,3 +17,15 @@ h1 {
 ul {
   list-style-type: none;
 }
+
+h5.card-title {
+  text-align: center;
+}
+
+.card {
+  background-color: yellow;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
