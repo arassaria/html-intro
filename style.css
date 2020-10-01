@@ -26,6 +26,8 @@ h5.card-title {
   background-color: yellow;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  border: 4px solid black;
+  border-radius: 45px;
 }
